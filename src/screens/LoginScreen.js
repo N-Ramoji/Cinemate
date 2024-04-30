@@ -199,7 +199,7 @@ function LoginScreen() {
 
                                 <footer className='loginScreen__footer'>
                                     <div className='loginScreen__footerText'>
-                                        By Arshad with love <FaHeart className='heartIcon'/>
+                                        By Ramoji with love <FaHeart className='heartIcon'/>
                                     </div>
                                 </footer>
                             </div>
